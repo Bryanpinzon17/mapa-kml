@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<NetworkLink>
+		<name>POLIGONO PLAYAS 2025-05-26-orthomosaic_14_8076_4532</name>
+		<Region>
+			<LatLonAltBox>
+				<north>-2.52685546875</north>
+				<south>-2.548828125</south>
+				<east>-80.39794921875</east>
+				<west>-80.419921875</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>POLIGONO PLAYAS 2025-05-26-orthomosaic_14_8076_4532.kml</href>
+		</Link>
+	</NetworkLink>
+	<NetworkLink>
+		<name>POLIGONO PLAYAS 2025-05-26-orthomosaic_14_8076_4533</name>
+		<Region>
+			<LatLonAltBox>
+				<north>-2.52685546875</north>
+				<south>-2.548828125</south>
+				<east>-80.3759765625</east>
+				<west>-80.39794921875</west>
+				<minAltitude>0</minAltitude>
+				<maxAltitude>0</maxAltitude>
+			</LatLonAltBox>
+			<Lod>
+				<minLodPixels>128</minLodPixels>
+				<maxLodPixels>-1</maxLodPixels>
+				<minFadeExtent>0</minFadeExtent>
+				<maxFadeExtent>0</maxFadeExtent>
+			</Lod>
+		</Region>
+		<Link>
+			<href>POLIGONO PLAYAS 2025-05-26-orthomosaic_14_8076_4533.kml</href>
+		</Link>
+	</NetworkLink>
+	<GroundOverlay>
+		<name>POLIGONO PLAYAS 2025-05-26-orthomosaic_13_4038_2266</name>
+		<drawOrder>13</drawOrder>
+		<Icon>
+			<href>files/POLIGONO PLAYAS 2025-05-26-orthomosaic_13_4038_2266.png</href>
+		</Icon>
+		<LatLonBox>
+			<north>-2.5048828125</north>
+			<south>-2.548828125</south>
+			<east>-80.3759765625</east>
+			<west>-80.419921875</west>
+		</LatLonBox>
+	</GroundOverlay>
+</Folder>
+</kml>
